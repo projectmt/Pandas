@@ -1,5 +1,9 @@
 # Pandas
 
+# 3 Observable Trends
+- Charter schools have higheer/highest overall passing rates.
+- District schools have the lower/lowest overall passing rates.
+- Students who performed well in Math scored high overall.
 
 ```python
 # Dependencies
